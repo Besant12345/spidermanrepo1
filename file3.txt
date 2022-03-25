@@ -8,4 +8,6 @@ welcome to DevOps platform
 Welcome to kubernetes platform
 welcome to DevOps platform 
 Welcome to kubernetes platform
+welcome to DevOps platform 
+Welcome to kubernetes platform
 
