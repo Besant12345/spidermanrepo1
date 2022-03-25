@@ -2,8 +2,13 @@ this is the first line
 this is the second line
 this is the third line adding docker creds
 this is the fourth line
+<<<<<<< Updated upstream
 welcome to AWS Platform
 welcome to Azure Platform
 welcome to DevOps platform 
 Welcome to kubernetes platform
 
+=======
+welcome to DevOps platform 
+Welcome to kubernetes platform
+>>>>>>> Stashed changes
